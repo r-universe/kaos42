@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pgee.mixed"]
+	path = pgee.mixed
+	url = https://github.com/kaos42/pgee.mixed
+	shallow = true
+	registered = true
